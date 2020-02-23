@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/Kloudless/kloudless-python)](https://repl.it/github/Kloudless/kloudless-python)
 Python library for the Kloudless API
 ====================================
 
